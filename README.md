@@ -143,6 +143,25 @@ Users can review:
 * Historical clinical states
 
 ---
+## 📸 Screenshots
+
+### 🏥 ICU Dashboard
+
+![Smart ICU Dashboard](docs/screenshots/dashboard.png)
+
+### 🤖 AI Recommendations
+
+![AI Recommendations](docs/screenshots/ai-recommendations.png)
+
+### 📊 Trend Analysis
+
+![Trend Analysis](docs/screenshots/trend-analysis.png)
+
+### 📚 Patient History
+
+![Patient History](docs/screenshots/patient-history.png)
+
+---
 
 ## 🏗️ Architecture
 
