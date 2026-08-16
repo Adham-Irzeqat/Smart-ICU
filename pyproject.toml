@@ -1,9 +1,10 @@
 [tool.poetry]
-name = "icu-rounds-app"
+name = "smart-icu"
 version = "0.1.0"
-description = "ICU Rounds App with local LLM"
-authors = ["Your Name <you@example.com>"]
+description = "AI-powered ICU clinical decision-support prototype with RAG and doctor-in-the-loop recommendations."
+authors = ["Adham Arzeqat <adhamirzeqat12@gmail.com>"]
 readme = "README.md"
+
 packages = [
     { include = "icu_local_ai" }
 ]
